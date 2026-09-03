@@ -994,3 +994,6 @@ Putting the screenshots together into **one coherent diagram**:
              └──────► Cache popular content
 ```
 
+Ref:
+
+![Complete System Architecture](./sd.png)
